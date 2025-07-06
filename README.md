@@ -128,7 +128,7 @@
 - [ ] [Youtube: Training a NER Model with Prodigy and Transfer Learning](https://youtu.be/59BKHO_xBPA)
 - [ ] [Youtube: Training a New Entity Type with Prodigy – annotation powered by active learning](https://youtu.be/l4scwf8KeIA)
 
-### Be able to manipulate data with Numpy
+### Be able to manipulate data with NumPy
 - [ ] [Datacamp: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - [ ] [Pluralsight: Working with Multidimensional Data Using NumPy](https://www.pluralsight.com/courses/numpy-working-with-multidimensional-data)
 
